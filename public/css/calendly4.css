@@ -1,0 +1,446 @@
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: cent;
+    background-color: #fff;
+    align-content: center;
+}
+
+
+
+/* first */
+.slop2 {
+    position: relative;
+    top: 140px;
+    left: 420px;
+    font-size: 25px;
+}
+.slop8 {
+    position: relative;
+    top: 120px;
+    left: 475px;
+    font-size: 18px;
+}
+.slop3 {
+    position: relative;
+    top: 149px;
+    text-align: center;
+    width: 43%;
+    font-size: 21px;
+    left: 293px;
+}
+
+/* second */
+.slop12 {
+    position: relative;
+    top: 153px;
+    left: 48px;
+    font-size: 33px;
+    width: 10px;
+}
+.slop18 {
+    position: relative;
+    top: 127px;
+    left: 40px;
+    font-size: 33px;
+}
+.emagess {
+    vertical-align: middle;
+    border-style: none;
+    width: 31%;
+    padding: 27px;
+    position: relative;
+    top: 77px;
+    left: -157px;
+    width: 126%;
+    height: 50vh;
+}
+
+.form-inline {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    top: 144px;
+    left: 22px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    position: relative;
+    right: 40px;
+    border-radius: 22px;
+}
+.form-inline {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    top: 154px;
+    left: 22px;
+}
+.slop13 {
+    position: relative;
+    top: 141px;
+    text-align: left;
+    width: 104%;
+    font-size: 30px;
+    left: 43px;
+}
+
+/* Third */
+.slop122 {
+    position: relative;
+    top: 205px;
+    left: 119px;
+    font-size: 19px;
+    color: #999999;
+}
+.slop188 {
+    position: relative;
+    top: 187px;
+    left: 119px;
+    font-size: 32px;
+}
+.slop133 {
+    position: relative;
+    top: 168px;
+    text-align: left;
+    width: 104%;
+    font-size: 30px;
+    left: 118px;
+}
+
+
+.emage {
+    position: relative;
+    height: 67vh;
+    top: 117px;
+    left: -77px;
+    width: 120%;
+}
+
+.col-sm-12 .col-md-12 .col-xs-12 .col-lg-12 {
+    left: 114px;
+    position: relative;
+}
+
+.emagee {
+    position: relative;
+    height: 67vh;
+    top: 189px;
+    left: 8px;
+    width: 120%;
+}
+.emageee {
+    position: relative;
+    height: 67vh;
+    top: 189px;
+    left: 123px;
+    width: 120%;
+}
+.emageee1 {
+    vertical-align: middle;
+    border-style: none;
+    width: 31%;
+    padding: 27px;
+    position: relative;
+    top: 217px;
+    width: 129%;
+    height: 66vh;
+}
+.world {
+    font-size: 2.5rem;
+    position: relative;
+    width: 38%;
+    top: -70px;
+    left: 80px;
+    color: #ffffff;
+}
+.blink {
+    position: relative;
+    top: 175px;
+    left: 290px;
+    width: 49%;
+    text-align: center;
+}
+.blinkk {
+    position: relative;
+    top: 175px;
+    left: 290px;
+    width: 66%;
+    text-align: center;
+}
+.blinks {
+    position: relative;
+    top: 188px;
+    left: 290px;
+    width: 66%;
+    text-align: center;
+    font-size: 23px;
+    color: #54a5f9;
+}
+
+
+.buttonce {
+    position: relative;
+    top: 142px;
+    left: 48px;
+    background-color: rgb(0 0 0);
+    color: white;
+    border-radius: 27px;
+    width: 43%;
+    height: 6vh;
+}
+
+
+.buttoncee1 {
+    position: relative;
+    top: -37px;
+    left: 96px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 27px;
+    border-color: 1px solid gray;
+    width: 20%;
+    height: 8vh;
+}
+.bb {
+    position: relative;
+    left: 9px;
+}
+.vdss {
+    position: relative;
+    left: 19px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 31%;
+    padding: 27px;
+}
+.vids {
+    width: 240px;
+    height: 26vh;
+    position: relative;
+    top: 5px;
+    left: 22px;
+}
+.sals {
+    position: relative;
+    top: 30px;
+    left: 17px;
+    font-size: 21px;
+    color: #0ab8fb;
+}
+.salss {
+    position: relative;
+    top: -16px;
+    left: 17px;
+    font-size: 21px;
+    color: #0ab8fb;
+}
+.vids {
+    width: 240px;
+    height: 26vh;
+    position: relative;
+    top: -14px;
+    left: 22px;
+}
+
+.thumbnail {
+    display: block;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    height: 52vh;
+    width: 79%;
+}
+.thumbnail-first {
+    display: block;
+    position: relative;
+    top: 52px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    height: 56vh;
+    width: 106%;
+}
+.col-sm-4 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+.col-md-4 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+.col-xs-4 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+.col-lg-4 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+.easy {
+    position: relative;
+    top: 243px;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+.ahead {
+    position: relative;
+    top: 223px;
+    font-weight: 800;
+    color: blue;
+    font-size: 2.1rem;
+}
+.take {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    position: relative;
+    top: 233px;
+    width: 135%;
+}
+.dropdown, .dropup {
+    height: 5vh;
+    position: relative;
+    top: 252px;
+}
+a {
+    color: #007bff;
+    position: relative;
+    top: 8px;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.btn-secondary {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #6c757d;
+    width: 134%;
+    border: 1px solid gray;
+}
+.dpp {
+    position: relative;
+    right: 70px;
+    top: -1px;
+}
+.dropdown-toggle::after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+    position: relative;
+    right: 57px;
+}
+.col-sm-3 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+.col-md-3 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+.col-xs-3 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+.col-lg-3 {
+    position: relative;
+    top: 159px;
+    left: 37px;
+}
+
+.df {
+    position: relative;
+    top: 507px;
+    left: 579PX;
+    color: white;
+}
+.ahd {
+    font-size: 18px;
+    position: relative;
+    top: 238px;
+    left: 110px;
+    color: #849ea3;
+}
+.ahdd {
+    font-size: 18px;
+    position: relative;
+    top: 238px;
+    left: 163px;
+    color: #849ea3;
+}
+.ahddd {
+    font-size: 18px;
+    position: relative;
+    top: 238px;
+    left: 229px;
+    color: #849ea3;
+}
+.sy {
+    position: relative;
+    top: 243px;
+    left: 109px;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+.syy {
+    position: relative;
+    top: 243px;
+    left: 164px;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+.syyy {
+    position: relative;
+    top: 243px;
+    left: 231px;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+.nav-link3 {
+    position: relative;
+    left: 18px;
+}
+.footer-row {
+    position: relative;
+    top: -354px;
+}
